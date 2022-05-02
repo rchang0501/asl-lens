@@ -1,5 +1,5 @@
 # ASL-Lens
-React.JS App that uses custom-built Tensorflow.JS Object Detection ML Model to identify and translate American Sign Language (ASL) to plain English 
+React object detection app using a custom object detection machine learning model hosted on IBM Cloud, built using Tensorflow.JS and OpenCV, to identify and live translate American Sign Language (ASL) to plain English
 
 ## Features 
 ASL Lens can currently recognize 5 phrases: hello, yes, no, thank you, and I love you. The number assigned next to each box is the certainty of the estimations. The closer to 1, the more certain. The closer to 0, the more uncertain. 
